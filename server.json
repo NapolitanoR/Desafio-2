@@ -1,0 +1,60 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://m.media-amazon.com/images/I/71v5XbQfVFL._AC_SX466_.jpg",
+            "name": "Xícara",
+            "description": "Xícara preta, Pug",
+            "price": "69,90"
+        },
+        {
+            "id": 2,
+            "photo": "https://img.elo7.com.br/product/original/143C2A6/caneca-game-of-thrones-02-produto-geek.jpg",
+            "name": "Xícara",
+            "description": "Xícara Game of Thrones",
+            "price": "69,90"
+        },
+        {
+            "id": 3,
+            "photo": "https://cdn.awsli.com.br/1000x1000/180/180275/produto/7288308/0114a2c5c1.jpg",
+            "name": "Xícara",
+            "description": "Xícara The Simpsons",
+            "price": "69,90"
+        },
+        {
+            "id": 4,
+            "photo": "https://img-br.prvstatic.com/front/get/photo/187647_-_images_-_products_-_L8347_UNICA_-_templ1.jpg",
+            "name": "Xícara",
+            "description": "Xícara preta",
+            "price": "29,90"
+        },
+        {
+            "id": 5,
+            "photo": "https://oxfordporcelanas.vteximg.com.br/arquivos/ids/172429-800-800/1-Cj.-C---06-Xicaras-De-Cha-200Ml-Com-Pires---Mail-Order---Avela---Ama1-5506--2-.jpg?v=637538403059730000",
+            "name": "Xícara",
+            "description": "Xícara marrom com pirex",
+            "price": "49,90"
+        },
+        {
+            "id": 6,
+            "photo": "https://oxfordporcelanas.vteximg.com.br/arquivos/ids/157762-1000-1000/oxford-daily-xicara-de-cha-com-pires-floreal-la-carreta-00.jpg?v=636217079004930000",
+            "name": "Xícara",
+            "description": "Xícara de azul com pirex",
+            "price": "49,90"
+        },
+        {
+            "id": 7,
+            "photo": "https://oxfordporcelanas.vteximg.com.br/arquivos/ids/157814-800-800/oxford-daily-xicara-de-cha-com-pires-floreal-renda-00.jpg?v=636217096187700000",
+            "name": "Xícara",
+            "description": "Xícara vermelha com pirex",
+            "price": "49,90"
+        },
+        {
+            "id": 8,
+            "photo": "https://oxfordporcelanas.vteximg.com.br/arquivos/ids/157695-1000-1000/oxford-porcelanas-xicara-de-cha-com-pires-quartier-white-00.jpg?v=636217056401300000",
+            "name": "Xícara",
+            "description": "Xícara branca com pirex",
+            "price": "49,90"
+        }
+    ]
+}
